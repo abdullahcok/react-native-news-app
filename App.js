@@ -38,6 +38,21 @@ function App() {
   );
 }
 
-
+const styles = StyleSheet.create({
+  container: {
+    top: 30,
+    padding: 10,
+    flex: 1,
+    backgroundColor: '#eceff1',
+  },
+  banner_image: {
+    height: Dimensions.get('window').height / 5,
+    width: Dimensions.get('window').width / 2,
+  },
+  headerText: {
+    fontWeight: 'bold',
+    fontSize: 50,
+  },
+});
 
 export default App;
