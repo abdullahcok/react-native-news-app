@@ -1,0 +1,37 @@
+[
+  {
+    "u_id": 0,
+    "author": "Newsroom",
+    "title": "Kimsuky Hackers Deploying AppleSeed, Meterpreter, and TinyNuke in Latest Attacks",
+    "description": "Nation-state actors affiliated to North Korea have been observed using spear-phishing attacks to deliver an assortment of backdoors and tools such as AppleSeed, Meterpreter, and TinyNuke to seize control of compromised machines.",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0um1c_AUXqVfb2GFv3e5PTmKA56qyJ7MjQeA8XzuquGGwxWO8OSD90Z5qktApKMGLn_zmOcGkUIKxaC85R3zDyQLqTpeboBnMJwPTtPRNMAJZDDt31xayMVmY1I762u0_ZO8NDu0M_vdCOUokuruR0QMPEm5a38KiXZzNf2gVbOpQfBJDABIWrJMB1oxg/s728-rw-ft-e30/korean-hacker.jpg"
+  },
+  {
+    "u_id": 1,
+    "author": "Newsroom",
+    "title": "Top 5 Marketing Tech SaaS Security Challenges",
+    "description": "Effective marketing operations today are driven by the use of Software-as-a-Service (SaaS) applications. Marketing apps such as Salesforce, Hubspot, Outreach, Asana, Monday, and Box empower marketing teams, agencies, freelancers, and subject matter experts to collaborate seamlessly on campaigns and marketing initiatives.",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Ly1586AUDm5ZjGuF0jPDBLXmYrQuKkkn0hANmLNsd0zIg2wjPCZ3gHjn7UmaXjC1n1ujpF3CCCj26BVDVYKP83_F8XvaZKqZxpmIWTkx1T9l6EZ30BsNFujYOC9IvgRGUY0LI_y4jxq-l4TMosNbTwuEa4CLUm7UNPFd_DdI5gTTL8J4JXfMrKLHfPE/s728-rw-ft-e30/saas.jpg"
+  },
+  {
+    "u_id": 2,
+    "author": "Newsroom",
+    "title": "Google Cloud Resolves Privilege Escalation Flaw Impacting Kubernetes Service",
+    "description": "Google Cloud has addressed a medium-severity security flaw in its platform that could be abused by an attacker who already has access to a Kubernetes cluster to escalate their privileges.",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLgxSWEb9yyLTwI7_VLPB43rAiMGYF_wY9FCVD49eDhQRM9RSFXWQ8rdnr8vO2G6A_NgrK3yrdTC33o1s9x5idRvnUh07ywmXKiIFgJFs5V2k6KTDLbiB5PYJdRKO4aurrwRG1C-praIIvchkj4LNF1D0MUJPI4ddTHllSggPGPDXhA2RbyH475c9dmK_h/s728-rw-ft-e30/google.jpg"
+  },
+  {
+    "u_id": 3,
+    "author": "Newsroom",
+    "title": "Most Sophisticated iPhone Hack Ever Exploited Apple's Hidden Hardware Feature",
+    "description": "The Operation Triangulation spyware attacks targeting Apple iOS devices leveraged never-before-seen exploits that made it possible to even bypass pivotal hardware-based security protections erected by the company.",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCEXT1aLwUv4Ftrq773alpgZS6Yb0ure-Jwq9SvGVlWReuoHF7Txn_4Fr86-_QNLm1BCkpB3TvfR67BGL18yt9hGiNi6201qOMItygaV88SbTYiAObklJoENRoFEhmEcgKCumDWNEkky2qu7Ujs7Kx0naWZ12gntW2xoa1IuEANEuLZT0G2ZXranGuC0N2/s728-rw-ft-e30/apple-spywre.jpg"
+  },
+  {
+    "u_id": 4,
+    "author": "Newsroom",
+    "title": "British LAPSUS$ Teen Members Sentenced for High-Profile Attacks",
+    "description": "The Operation Triangulation spyware attacks targeting Apple iOS devices leveraged never-before-seen exploits that made it possible to even bypass pivotal hardware-based security protections erected by the company.",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgIp0LMbm_cA1hIPxIT3XPAaeiLtk8yYvdrPjl7HFMBXwwtU7CH70HhHVV3T5SinueaFeLwoY7q_h7ogc-KHNWMeoxBouEyAtIHW2K5MafuKAju1p4xIqWfUXCwhqy3wg5ZHk15Ahx5dB3UssnxeG7A2aGspxJc_C66rBM-7TWXsedS4c3BI3vT7QiSD-N/s728-rw-ft-e30/teen-hacker.jpg"
+  }
+]
